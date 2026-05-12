@@ -1,7 +1,15 @@
+[gemini-code-1778614484740.md](https://github.com/user-attachments/files/27654978/gemini-code-1778614484740.md)
 🛒 BTF İndirim Takip Botu (@btf_indirim_botu)
 BTF İndirim Takip Botu, verdiğiniz ürün linklerini sürekli izleyerek fiyat düşüşlerini anlık olarak Telegram üzerinden bildiren bir Python asistanıdır. Özellikle manuel fiyat takibi yapmak istemeyen kullanıcılar için geliştirilmiştir.
 
-✨ Özellikler
+✨ Özellikler<!-- Bu kodu README dosyanızın en üstüne veya istediğiniz bir yerine yapıştırın. -->
+<!-- Bu resim, bot arayüzünüzü ve kurulum adımlarını gösterir. -->
+
+[![BTF İndirim Botu Arayüzü](<img width="1080" height="2270" alt="photo_5774016800407359403_w" src="https://github.com/user-attachments/assets/cf5cc7d1-bf55-4363-86c6-0ad75e9be589" />
+)](<img width="1080" height="2466" alt="photo_5774016800407359404_w" src="https://github.com/user-attachments/assets/3bc22d69-bf14-48ee-af68-2e905011b794" />
+)
+
+<br>
 Anlık Fiyat Sorgulama: Gönderdiğiniz ürün linkini anında tarayarak güncel fiyat bilgisini çeker.
 
 Otomatik Veritabanı Kaydı: Takibe alınan ürünler veritabanına kaydedilir, böylece bot kapansa bile verileriniz kaybolmaz.
