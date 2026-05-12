@@ -25,16 +25,14 @@ Bildirim: Sadece fiyat düştüğünde kullanıcıya Telegram üzerinden mesaj g
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Dosyaları Klonlayın
-Bash
 git clone https://github.com/tolgagurler1503/telegram_indirim_botu
-cd btf-indirim-botu
+
 2. Gereksinimleri Yükleyin
-Bash
 pip install -r requirements.txt
+
 3. Botu Çalıştırın
 Botu terminal üzerinden başlatmanız yeterlidir:
 
-Bash
 python app.py
 Not: Bot, terminaliniz ve bilgisayarınız açık kaldığı sürece takibe devam edecektir.
 
