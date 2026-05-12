@@ -1,3 +1,5 @@
+<img width="1080" height="2466" alt="photo_5774016800407359404_w" src="https://github.com/user-attachments/assets/a87fb781-9472-499d-a063-5220a60ec393" />
+<img width="1080" height="2270" alt="photo_5774016800407359403_w" src="https://github.com/user-attachments/assets/cea406b0-4de8-405f-893f-a02d094fd39b" />
 
 🛒 BTF İndirim Takip Botu (@btf_indirim_botu)
 BTF İndirim Takip Botu, verdiğiniz ürün linklerini sürekli izleyerek fiyat düşüşlerini anlık olarak Telegram üzerinden bildiren bir Python asistanıdır. Özellikle manuel fiyat takibi yapmak istemeyen kullanıcılar için geliştirilmiştir.
