@@ -26,7 +26,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1. Dosyaları Klonlayın
 Bash
-git clone 
+git clone https://github.com/tolgagurler1503/telegram_indirim_botu
 cd btf-indirim-botu
 2. Gereksinimleri Yükleyin
 Bash
