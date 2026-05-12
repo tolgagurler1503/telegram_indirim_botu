@@ -28,7 +28,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 git clone https://github.com/tolgagurler1503/telegram_indirim_botu
 
 2. Gereksinimleri Yükleyin
-pip install -r requirements.txt
+pip install requirements.txt
 
 3. Botu Çalıştırın
 Botu terminal üzerinden başlatmanız yeterlidir:
@@ -37,13 +37,13 @@ python app.py
 Not: Bot, terminaliniz ve bilgisayarınız açık kaldığı sürece takibe devam edecektir.
 
 📈 Gelecek Planları (Roadmap)
-[ ] 7/24 kesintisiz çalışma için Cloud/VPS entegrasyonu.
+[1] 7/24 kesintisiz çalışma için Cloud/VPS entegrasyonu.
 
-[ ] Daha fazla e-ticaret platformu için scraping desteği.
+[2] Daha fazla e-ticaret platformu için scraping desteği.
 
-[ ] Grafiksel fiyat değişim raporları.
+[3] Grafiksel fiyat değişim raporları.
 
-[ ] Çoklu kullanıcı desteğinin optimize edilmesi.
+[4] Çoklu kullanıcı desteğinin optimize edilmesi.
 
 🤝 Katkıda Bulunma
 Bu proje geliştirilmeye devam etmektedir. Her türlü fikir, hata bildirimi veya iyileştirme talebi için bir "Issue" açabilir ya da "Pull Request" gönderebilirsiniz.
